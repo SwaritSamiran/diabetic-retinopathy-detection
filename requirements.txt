@@ -1,0 +1,11 @@
+pandas
+numpy
+torch 
+torchvision 
+opencv-python 
+scikit-learn 
+albumentations 
+tensorflow 
+keras 
+Pillow
+-e .
