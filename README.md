@@ -172,6 +172,12 @@ This is a research tool for educational and experimental purposes. It is not a m
 - Generalized Mean Pooling: Feature aggregation via power mean
 - Ben Graham Preprocessing: Kaggle forum discussion on retinal image normalization
 
+## Contributors
+
+This project was developed collaboratively by:
+- [Kavya Baxi](https://github.com/kavay-dev)
+- [Swarit Samiran](https://github.com/SwaritSamiran)
+
 ## Acknowledgments
 
 This solution draws inspiration from several APTOS 2019 competition winners and top performers. Key techniques including continuous regression, threshold optimization, and test-time augmentation strategies were informed by public solutions and discussions from the competition.
