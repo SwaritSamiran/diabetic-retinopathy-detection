@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Datasets (users don't need training data)
+data/
+
+# Training scripts (not needed - model is pre-trained)
+train.py
+config.py
+
+# Training artifacts (but NOT best_model.pth - we want to push that)
+*.npy
+
+# OS
+.DS_Store
+Thumbs.db
